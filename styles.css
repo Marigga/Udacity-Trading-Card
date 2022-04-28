@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+
+.card {
+  border: 1px solid #D3D3D3;
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 9px;
+  box-shadow: 5px 6px #DCDCDC;
+}
+
+.name {
+  padding-left: 9px;
+  font-size: 24px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: auto;
+  padding: 9px;
+}
+
+.funinfo {
+  border: 1px solid #D3D3D3;
+  width: 298px;
+  margin: auto; 
+}
+
+.fact {
+  font-style: italic;
+}
+
+p {
+  padding: 9px;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 9px;
+}
